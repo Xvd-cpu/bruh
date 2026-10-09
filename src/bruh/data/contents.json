@@ -1,0 +1,330 @@
+{
+  "1": [
+    {
+      "title": "Document introduction",
+      "start": 0,
+      "end": 4,
+      "level": 1
+    },
+    {
+      "title": "1. Course Orientation",
+      "start": 4,
+      "end": 30,
+      "level": 1
+    },
+    {
+      "title": "2. Python Core",
+      "start": 30,
+      "end": 246,
+      "level": 1
+    },
+    {
+      "title": "3. Networking and Files",
+      "start": 246,
+      "end": 423,
+      "level": 1
+    },
+    {
+      "title": "4. Django MVT",
+      "start": 423,
+      "end": 685,
+      "level": 1
+    },
+    {
+      "title": "5. Auth and Sessions",
+      "start": 685,
+      "end": 773,
+      "level": 1
+    },
+    {
+      "title": "6. Database Connectivity",
+      "start": 773,
+      "end": 880,
+      "level": 1
+    },
+    {
+      "title": "7. APIs with Django REST Framework",
+      "start": 880,
+      "end": 1011,
+      "level": 1
+    },
+    {
+      "title": "8. Machine Learning Model Integration",
+      "start": 1011,
+      "end": 1120,
+      "level": 1
+    },
+    {
+      "title": "9. Quick Recap",
+      "start": 1120,
+      "end": 1161,
+      "level": 1
+    }
+  ],
+  "2": [
+    {
+      "title": "Document introduction",
+      "start": 0,
+      "end": 25,
+      "level": 1
+    },
+    {
+      "title": "1. Course Orientation",
+      "start": 25,
+      "end": 40,
+      "level": 1
+    },
+    {
+      "title": "2. Why Docker Exists",
+      "start": 40,
+      "end": 120,
+      "level": 1
+    },
+    {
+      "title": "3. Containers vs Virtual Machines",
+      "start": 120,
+      "end": 161,
+      "level": 1
+    },
+    {
+      "title": "4. Docker Architecture",
+      "start": 161,
+      "end": 211,
+      "level": 1
+    },
+    {
+      "title": "5. Images and the Dockerfile",
+      "start": 211,
+      "end": 308,
+      "level": 1
+    },
+    {
+      "title": "6. Containers, Storage and Networking",
+      "start": 308,
+      "end": 422,
+      "level": 1
+    },
+    {
+      "title": "7. Docker Compose",
+      "start": 422,
+      "end": 468,
+      "level": 1
+    },
+    {
+      "title": "8. Integrating Django with Docker",
+      "start": 468,
+      "end": 500,
+      "level": 1
+    },
+    {
+      "title": "9. Deployment and Security",
+      "start": 500,
+      "end": 595,
+      "level": 1
+    },
+    {
+      "title": "10. Best Practice and Debugging",
+      "start": 595,
+      "end": 661,
+      "level": 1
+    },
+    {
+      "title": "11. Quick Recap",
+      "start": 661,
+      "end": 691,
+      "level": 1
+    }
+  ],
+  "3": [
+    {
+      "title": "Document introduction",
+      "start": 0,
+      "end": 7,
+      "level": 1
+    },
+    {
+      "title": "1. Python Core",
+      "start": 7,
+      "end": 127,
+      "level": 1
+    },
+    {
+      "title": "2. Networking and Files",
+      "start": 127,
+      "end": 237,
+      "level": 1
+    },
+    {
+      "title": "3. Django Project Setup",
+      "start": 237,
+      "end": 264,
+      "level": 1
+    },
+    {
+      "title": "4. Django MVT",
+      "start": 264,
+      "end": 414,
+      "level": 1
+    },
+    {
+      "title": "5. Auth and Sessions",
+      "start": 414,
+      "end": 516,
+      "level": 1
+    },
+    {
+      "title": "6. Database Connectivity",
+      "start": 516,
+      "end": 589,
+      "level": 1
+    },
+    {
+      "title": "7. Django REST Framework",
+      "start": 589,
+      "end": 687,
+      "level": 1
+    },
+    {
+      "title": "8. Machine Learning Model Integration",
+      "start": 687,
+      "end": 782,
+      "level": 1
+    },
+    {
+      "title": "9. Common Errors and Fixes",
+      "start": 782,
+      "end": 828,
+      "level": 1
+    },
+    {
+      "title": "10. Command Sheet",
+      "start": 828,
+      "end": 847,
+      "level": 1
+    }
+  ],
+  "4": [
+    {
+      "title": "Document introduction",
+      "start": 0,
+      "end": 36,
+      "level": 1
+    },
+    {
+      "title": "1. Setup",
+      "start": 36,
+      "end": 65,
+      "level": 1
+    },
+    {
+      "title": "2. Images",
+      "start": 65,
+      "end": 107,
+      "level": 1
+    },
+    {
+      "title": "3. Containers",
+      "start": 107,
+      "end": 167,
+      "level": 1
+    },
+    {
+      "title": "4. The Dockerfile",
+      "start": 167,
+      "end": 293,
+      "level": 1
+    },
+    {
+      "title": "5. Preparing Django for Docker",
+      "start": 293,
+      "end": 350,
+      "level": 1
+    },
+    {
+      "title": "6. Volumes and Networks",
+      "start": 350,
+      "end": 394,
+      "level": 1
+    },
+    {
+      "title": "7. Docker Compose",
+      "start": 394,
+      "end": 529,
+      "level": 1
+    },
+    {
+      "title": "8. Registries and Deployment",
+      "start": 529,
+      "end": 596,
+      "level": 1
+    },
+    {
+      "title": "9. Debugging and Clean Up",
+      "start": 596,
+      "end": 660,
+      "level": 1
+    }
+  ],
+  "5": [
+    {
+      "title": "Document introduction",
+      "start": 0,
+      "end": 6,
+      "level": 1
+    },
+    {
+      "title": "SETUP",
+      "start": 6,
+      "end": 11,
+      "level": 1
+    },
+    {
+      "title": "START A REPOSITORY",
+      "start": 11,
+      "end": 15,
+      "level": 1
+    },
+    {
+      "title": "DAILY WORK",
+      "start": 15,
+      "end": 25,
+      "level": 1
+    },
+    {
+      "title": "BRANCHES",
+      "start": 25,
+      "end": 32,
+      "level": 1
+    },
+    {
+      "title": "REMOTES",
+      "start": 32,
+      "end": 40,
+      "level": 1
+    },
+    {
+      "title": "TEMPORARY WORK",
+      "start": 40,
+      "end": 47,
+      "level": 1
+    },
+    {
+      "title": "UNDO",
+      "start": 47,
+      "end": 53,
+      "level": 1
+    },
+    {
+      "title": "CONFLICTS",
+      "start": 53,
+      "end": 60,
+      "level": 1
+    },
+    {
+      "title": "TAGS AND IGNORE RULES",
+      "start": 60,
+      "end": 65,
+      "level": 1
+    }
+  ]
+}

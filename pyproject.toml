@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bruh"
+version = "1.0.1"
+description = "Offline terminal reference for Unit 2, Unit 5, Django, Docker and Git"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = ["Programming Language :: Python :: 3", "Operating System :: OS Independent", "Topic :: Education"]
+
+[project.urls]
+Repository = "https://github.com/Xvd-cpu/bruh"
+
+[project.scripts]
+bruh = "bruh.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+bruh = ["data/*.txt", "data/*.pdf", "data/*.json"]
